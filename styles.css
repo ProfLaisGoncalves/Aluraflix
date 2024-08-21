@@ -3,6 +3,7 @@ body {
     background: black; 
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    margin-top: 100px;
 }
 
 header {
@@ -52,7 +53,13 @@ img {
     border: 1px solid yellow;
 }
 
+.categoria h2{
+    color: rgb(147, 60, 247);
+}
+
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
+
